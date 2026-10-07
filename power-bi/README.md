@@ -1,6 +1,6 @@
 # Projekt z Power BI: mzdy a ceny potravin v ČR
 
-Projekt jsem zpracoval v rámci ENGETO Datové akademie. Vizualizuji v něm data z [projektu z SQL](../README.md): vývoj průměrných mezd a cen základních potravin v ČR v letech 2006 až 2018 a HDP evropských států.
+Projekt jsem zpracoval v rámci ENGETO Datové akademie. Vizualizuji v něm data z [projektu z SQL](../sql/README.md): vývoj průměrných mezd a cen základních potravin v ČR v letech 2006 až 2018 a HDP evropských států.
 
 Popis dat, datového modelu a stránek reportu je v [PRUVODNI_LISTINA.md](PRUVODNI_LISTINA.md).
 
