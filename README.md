@@ -30,3 +30,7 @@ Skripty `03` až `07` potom pracují už jen s těmito dvěma finálními tabulk
 ## Poznámky k datům
 
 Chybějící hodnoty, omezení a rozhodnutí použitá při výpočtech jsou popsaná v [PRUVODNI_LISTINA.md](PRUVODNI_LISTINA.md) v části „Poznámky k datům a omezení“.
+
+## Projekt z Power BI
+
+Navazující vizualizace dat v Power BI je ve složce [power-bi](power-bi/README.md).
